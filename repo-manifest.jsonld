@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/sklearn-ann/commit/c105475ab0bc6dfcdb2239a38273d6895c5fe281",
       "git:hexsha": "c105475ab0bc6dfcdb2239a38273d6895c5fe281",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:33:49.337168+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/sklearn-ann/commit/1b6b212c3a7b2a8bb66fcdd02a987f4b93df5924",
